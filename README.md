@@ -10,11 +10,12 @@ Install Node.js from https://nodejs.org/en/
 ### Virtual MIDI
 A virtual MIDI software needs to be intalled. The following was used: https://www.tobias-erichsen.de/software/loopmidi.html
 
-## Running Music_Interface_Performer
+### Digital Audio Workstation (DAW)
+There are many DAWs you can use. The tutorial is done in Ableton Live 9, however you can use whatever DAW you want. A free recommended DAW is Reaper (https://www.reaper.fm/)
 
-### 1) Run bridge.js
-From the terminal window, in the directory of the project run:
-```
-node bridge.js
+## Running Music_Interface_Performer
+Click in the link to see how to run Music_Interface_Performer:
+
+
 
 
